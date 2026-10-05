@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../MarkerTests/MarkerTests.vcxproj" Id="1200f449-c490-445f-bd81-ddf80ffb6a63" />
+  <Project Path="OS_lab_3rd.vcxproj" Id="aaa9506e-8d69-48e7-b707-8e6a5fd3a8ac" />
+</Solution>
